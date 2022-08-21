@@ -1,4 +1,4 @@
 function send(){
-    var pegar = document.getElementById('mandar')
+    var pegar = document.getElementById('per')
     alert('funcionou !')
 }
